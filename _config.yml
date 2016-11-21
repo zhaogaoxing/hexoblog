@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 赵先生的剥壳
-subtitle: 记录梦想
+title: 赵先生
+subtitle: 只有掌控自己的生活秩序，才能做自己的国王。
 description: 只有掌控自己的生活秩序，才能做自己的国王。
 author: 赵先生
 language: zh-CN
@@ -65,6 +65,14 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: huno
 
+#Disqus
+disqus_shortname: zhaogaoxing
+#Duoshuo
+duoshuo_shortname: zhaogaoxing
+
+#Social
+social:
+  github: zhaogaoxing
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
