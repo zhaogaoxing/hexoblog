@@ -1,6 +1,6 @@
 ---
 title: AS3游戏中常用的类
-tag: ActionScript
+tags: ActionScript
 categories: ActionScript
 ---
 #object类
